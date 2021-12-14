@@ -1,4 +1,4 @@
-# Adaptuive-Cruise-Control-with-Cloud-Connectivity
+# Adaptive-Cruise-Control-with-Cloud-Connectivity
 Software: Matlab, Hardware: Arduino UNO
 # About Cruise Control and Adaptive Cruise Control Mode.  
 Cruise Control and Adaptive Cruise Control are driver assistance systems for road 
