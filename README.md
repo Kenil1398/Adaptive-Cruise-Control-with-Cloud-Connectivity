@@ -1,5 +1,5 @@
 # Adaptive-Cruise-Control-with-Cloud-Connectivity
-Software: Matlab, Python Hardware: Arduino UNO
+Software: Matlab, Pycharm Hardware: Arduino UNO
 # About Cruise Control and Adaptive Cruise Control Mode.  
 Cruise Control and Adaptive Cruise Control are driver assistance systems for road 
 vehicles to provide a better and safer driving experience. In the CC mode, the speed of 
